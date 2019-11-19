@@ -4,19 +4,19 @@
 ####  faça download do projeto para uma pasta especifica do computador
 
 #  segundo passo
-#### baixe o arquivo dockerfile do repositorio e coloque na mesma pasta do projeto
+#### extraia o projeto para pasta especifica sua
 
 # terceiro passo
 ####  abra o terminal (caso esteja no ubuntu aperte ctrl + alt + T) ou cmd no Windows.
 
 # quarto passo
-#### o dockerfile ja possui alguns parametros de configuração então basta começar os parametros com docker a seguir
+#### com tudo extraido em uma pasta do projeto basta começar os passos seguir
 
 # quinto passo 
-#### com terminal aberto  navegue até a pagina do projeto utilizando comandos cd .. ou cd<pasta>
+#### com terminal aberto  navegue até a pagina do projeto utilizando comandos cd .. ou cd até a pasta do projeto
 
 # sexto passo 
-#### ao chegar na pasta indicada comece os comandos abaixos
+#### ao chegar na pasta do projeto comece os comandos abaixos
 #### de o comando abaixo para instalar as dependencias que serão espelhadas futuramente na pasta do container
 
 ```
