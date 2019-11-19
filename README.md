@@ -21,7 +21,8 @@
 #### docker build -t <nomeDaImagem> .
 
 #### um download deve começar em seguida gerar a imagem
-
+#### apos a instalação da imagem a mesma deve ser vista com o comando abaixo
+#### docker image list
 # setimo passo
 #### apos a compilação da imagem no mesmo local digite 
 #### docker -run -v "$(pwd):/home/node/app" -p 80:3000 -it <nomeDaImagem> bash
