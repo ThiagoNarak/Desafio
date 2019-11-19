@@ -17,6 +17,12 @@
 
 # sexto passo 
 #### ao chegar na pasta indicada comece os comandos abaixos
+#### de o comando abaixo para instalar as dependencias que serão espelhadas futuramente na pasta do container
+
+```
+ $ npm install
+```
+#### em seguida monte a imagem com o comando abaixo
 ```
  $ docker build -t nomeDaImage .
 ```
